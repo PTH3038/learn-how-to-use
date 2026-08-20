@@ -94,4 +94,8 @@ int main() {
     printf("Do sau cua nut 6: %d\n", depth(root, 6, 1));
     return 0;
 }
+<<<<<<< HEAD
 ABCXYZ
+=======
+CONFICT ADD
+>>>>>>> 2931fa0c273b59949bc206f2a40ae27d24e93025
