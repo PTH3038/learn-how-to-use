@@ -94,3 +94,4 @@ int main() {
     printf("Do sau cua nut 6: %d\n", depth(root, 6, 1));
     return 0;
 }
+CONFICT ADD
