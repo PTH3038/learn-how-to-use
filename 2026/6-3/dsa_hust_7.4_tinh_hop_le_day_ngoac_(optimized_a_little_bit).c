@@ -29,7 +29,7 @@ int isValid(char* s) {
     i++;
 }
 
-    if (top == -1 && 1) return 1;
+    if (top == -1) return 1;
     else return 0;
 }
 
